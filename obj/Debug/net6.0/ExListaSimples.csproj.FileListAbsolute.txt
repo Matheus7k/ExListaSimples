@@ -1,0 +1,15 @@
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\bin\Debug\net6.0\ExListaSimples.exe
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\bin\Debug\net6.0\ExListaSimples.deps.json
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\bin\Debug\net6.0\ExListaSimples.runtimeconfig.json
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\bin\Debug\net6.0\ExListaSimples.dll
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\bin\Debug\net6.0\ExListaSimples.pdb
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.AssemblyInfo.cs
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.dll
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\refint\ExListaSimples.dll
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.pdb
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ExListaSimples.genruntimeconfig.cache
+C:\Users\adm\Desktop\c#\POO\ExListaSimples\ExListaSimples\obj\Debug\net6.0\ref\ExListaSimples.dll
